@@ -1,9 +1,3 @@
-/// Name(s): Anthony Valles, Garrett Jones
-/// Professor: Dr. Cheon
-/// Assignment 2 - Dart Omok Project
-/// Due Date: 04/12/2022
-/// CS 3360 (CRN - 29507)
-
 import 'dart:convert';
 import 'dart:io';
 import 'package:http/http.dart' as http;
